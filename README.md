@@ -1,2 +1,2 @@
 # hello-world
-A deep and dark experiment in SteveChris's innocent world, where, until now, there have been no repositories
+Now that SteveChris has created his first repository, there will be no stopping him, as he slowly takes over the rest of the internet. Very slowly. Like, millenia slowly.
